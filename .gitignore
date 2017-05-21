@@ -4,6 +4,7 @@
 dist/
 build/
 *.egg-info/
-config
-!config/*example.conf
+config/*
+!config/*example*
 
+scripts/tmp.py
